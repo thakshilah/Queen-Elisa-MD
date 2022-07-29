@@ -43,26 +43,14 @@ global.author = 'Dark Maker' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐:|🥺❤️
-
-ᴀʟʟꜱ ᴄᴀɴ ||❤️✌️
-
-http://Wa.me//+94701363708🧸?text=හා̶̷යි̶̶🙈🌸_ස̶̷්ටේ̶̷ට̶̷ස්🪄බ̶̷ල̶̬න̷̶්න̶
-
- _🦋⃪⃮⃖🌼⃪⃮⃖✨⃪⃮⃖◊⟺⃝⃕͜⃞𓄂͍✺⃢◍̸̅̄̊̇:Ⓞ❮✪⃝₂₀ⷮ₂ⷨ2࿌ *⃝⃕ ᴜⷮⓄ|කි̶̷ᴿ̶͚͢ᴵ̶කෝ̶̷⃐̅ඩු̶̷⃨ හු̶̷̊̑ᴿ̶͚͢ᴬ̶ත̶̷̎͟͞ලේ̶̷̅⃞🌼̲̱̥̅̄̊⊷⋅‖̶࿂⃞⃡💔😼නා̶හ̶⃮ට̶ අ̶හ̶න̶්͜͡නැ̶ති̶ එ̶͢කාـ😹✌️ــ_ 
-
-Active always
-
-_*Bot Is Alive Now.....😁❤️*_
-
-_*𝓽ꫝꪖꪀ𝘬𝘴 ᦔꪮ𝘳 ꫀꪜꫀ𝘳ꪗꪮꪀꫀ*_ ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐:|🥺❤️ ᴀʟʟꜱ ᴄᴀɴ ||❤️✌️ http://Wa.me//+94701363708🧸?text=හා̶̷යි̶̶🙈🌸_ස̶̷්ටේ̶̷ට̶̷ස්🪄බ̶̷ල̶̬න̷̶්න̶ 🦋⃪⃮⃖🌼⃪⃮⃖✨⃪⃮⃖◊⟺⃝⃕͜⃞𓄂͍✺⃢◍̸̅̄̊̇:Ⓞ❮✪⃝₂₀ⷮ₂ⷨ2࿌ *⃝⃕ ᴜⷮⓄ|කි̶̷ᴿ̶͚͢ᴵ̶කෝ̶̷⃐̅ඩු̶̷⃨ හු̶̷̊̑ᴿ̶͚͢ᴬ̶ත̶̷̎͟͞ලේ̶̷̅⃞🌼̲̱̥̅̄̊⊷⋅‖̶࿂⃞⃡💔😼නා̶හ̶⃮ට̶ අ̶හ̶න̶්͜͡නැ̶ති̶ එ̶͢කාـ😹✌️ــ Active always Bot Is Alive Now.....😁❤️ 𝓽ꫝꪖꪀ𝘬𝘴 ᦔꪮ𝘳 ꫀꪜꫀ𝘳ꪗꪮꪀꫀ ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
-Download song type /yt
+Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `.welcome ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐⏭ 𝙃𝙀𝙇𝙇𝙊 𝘿𝙀𝘼𝙍 𝙔𝙊𝙐 𝘼𝙍𝙀 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙏𝙃𝙀 𝙂𝙍𝙊𝙐𝙋________________________*What is your name? ☺️❤️*'
+global.welcome = `.welcome ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐⏭ 𝙃𝙀𝙇𝙇𝙊 𝘿𝙀𝘼𝙍 𝙔𝙊𝙐 𝘼𝙍𝙀 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙏𝙃𝙀 𝙂𝙍𝙊𝙐𝙋________________________What is your name? ☺️❤️'
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
